@@ -3,6 +3,7 @@
 
 Actualmente me encuentro estudiando el 2° Cuatrimestre de la UTN-FRA
 
+## Habilidades
 <div>
 <img height="40" align="center" alt="HTML" height="30" width="40" src="https://i.imgur.com/Jg2ueWF.png">
 <img height="40" align="center" alt="HTML" height="30" width="40" src="https://i.imgur.com/5NjVYbj.png">
