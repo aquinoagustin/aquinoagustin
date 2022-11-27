@@ -1,5 +1,5 @@
 ### Saludos 👋
-![Header]("./github-header-image.png")
+![Header](./github-header-image.png)
 
 Actualmente me encuentro estudiando el 2° Cuatrimestre de la UTN-FRA
 
