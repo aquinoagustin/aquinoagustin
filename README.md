@@ -5,6 +5,8 @@ Actualmente me encuentro estudiando el 2° Cuatrimestre de la UTN-FRA
 
 ## Habilidades
 <div>
+  
+<img height="40" align="center" alt="HTML" height="30" width="40" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif">
 <img height="40" align="center" alt="HTML" height="30" width="40" src="https://i.imgur.com/Jg2ueWF.png">
 <img height="40" align="center" alt="HTML" height="30" width="40" src="https://i.imgur.com/5NjVYbj.png">
 <img height="40" align="center" alt="HTML" height="30" width="40" src="https://i.imgur.com/CFUfHyN.png">
