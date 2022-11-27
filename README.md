@@ -2,7 +2,7 @@
 ![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 Actualmente me encuentro estudiando el 2° Cuatrimestre de la UTN-FRA
-<img height="40" align="right" alt="HTML" height="100" width="60" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif">
+<img height="40" align="right" alt="HTML" height="200" width="200" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif">
 ## Habilidades
 <div>
   
