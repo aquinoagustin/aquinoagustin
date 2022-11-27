@@ -5,7 +5,6 @@ Actualmente me encuentro estudiando el 2° Cuatrimestre de la UTN-FRA
 
 <div>
 <img height="40" align="center" alt="HTML" height="30" width="40" src="https://i.imgur.com/Jg2ueWF.png">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img height="40" align="center" alt="HTML" height="30" width="40" src="https://i.imgur.com/5NjVYbj.png">
 <img height="40" align="center" alt="HTML" height="30" width="40" src="https://i.imgur.com/CFUfHyN.png">
 <img height="40" align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
