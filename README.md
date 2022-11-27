@@ -1,5 +1,5 @@
 ### Saludos 👋
-Actualmente me encuentro estudiando el 2° Cuatrimestre de la UTN-FRA
+## Actualmente me encuentro estudiando el 2° Cuatrimestre de la UTN-FRA
 ![Header](./header.png)
 
 ## Habilidades
