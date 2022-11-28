@@ -1,5 +1,5 @@
 ### Saludos 👋
-## Actualmente me encuentro estudiando el 2° Cuatrimestre de la UTN-FRA
+### Mi nombre es Agustín, tengo 23 años y actualmente me encuentro estudiando el 2° Cuatrimestre de la UTN-FRA y actualmente estoy cursando en coderhouse. Me gusta mucho programar y espero algun día llegar a ser full stack developer
 ![Header](./header.png)
 
 ## Habilidades
