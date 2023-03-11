@@ -15,5 +15,5 @@
 
 ## Podes seguirme:
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/luciano-agust%C3%ADn-aquino-02058a1a3)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='linkedin' height='40'>](https://www.instagram.com/agusxaquino) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/luciano-agust%C3%ADn-aquino-02058a1a3)   [<img src='[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg](https://cdn-icons-png.flaticon.com/512/174/174855.png)' alt='linkedin' height='40'>](https://www.instagram.com/agusxaquino) 
 
