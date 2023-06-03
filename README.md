@@ -6,6 +6,7 @@
 <div>
   
 <img height="40" align="center" alt="HTML" height="30" width="40" src="https://i.imgur.com/Jg2ueWF.png">
+<img height="40" align="center" alt="HTML" height="30" width="40" src="https://www.svgrepo.com/show/354113/nextjs-icon.svg">
 <img height="40" align="center" alt="HTML" height="30" width="40" src="https://i.imgur.com/5NjVYbj.png">
 <img height="40" align="center" alt="HTML" height="30" width="40" src="https://i.imgur.com/CFUfHyN.png">
 <img height="40" align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
