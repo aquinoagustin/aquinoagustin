@@ -11,7 +11,7 @@
 <img align="center" alt="HTML" height="40" width="40" src="https://i.imgur.com/Jg2ueWF.png">
 <img align="center" alt="HTML" height="40" width="40" src="https://i.imgur.com/3jugWSj.png">
 <img align="center" alt="HTML" height="40" width="40" src="https://i.imgur.com/5NjVYbj.png">
-<img align="center" alt="HTML" height="40" width="40" src="https://w7.pngwing.com/pngs/628/224/png-transparent-bootstrap-plain-wordmark-logo-icon.png">
+<img align="center" alt="HTML" height="40" width="40" src="https://en.vetores.org/wp-content/uploads/bootstrap.png">
 
 
 </div>
