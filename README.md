@@ -16,5 +16,5 @@
 
 ## Podes seguirme:
 
-[<img src='https://static-00.iconduck.com/assets.00/linkedin-icon-2048x2048-ya5g47j2.png'  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='45'>](https://www.instagram.com/agusxaquino) 
+[<img src='https://static-00.iconduck.com/assets.00/linkedin-icon-2048x2048-ya5g47j2.png'  [<img src='[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg](https://static-00.iconduck.com/assets.00/linkedin-icon-2048x2048-ya5g47j2.png)' alt='instagram' height='45'>](https://www.instagram.com/agusxaquino) 
 
