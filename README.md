@@ -17,3 +17,4 @@
 ## Podes seguirme:
 
 <img align="center" alt="HTML" height="40" width="40" src="https://static-00.iconduck.com/assets.00/linkedin-icon-2048x2048-ya5g47j2.png">
+<img align="center" alt="HTML" height="40" width="40" src="https://static.vecteezy.com/system/resources/previews/017/743/718/non_2x/instagram-icon-logo-free-png.png">
