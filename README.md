@@ -11,7 +11,7 @@
 <img align="center" alt="HTML" height="40" width="40" src="https://i.imgur.com/Jg2ueWF.png">
 <img align="center" alt="HTML" height="40" width="40" src="https://i.imgur.com/3jugWSj.png">
 <img align="center" alt="HTML" height="40" width="40" src="https://i.imgur.com/5NjVYbj.png">
-<img align="center" alt="HTML" height="40" width="40" src="https://e7.pngegg.com/pngimages/168/618/png-clipart-responsive-web-design-web-development-bootstrap-cascading-style-sheets-web-browser-world-wide-web-purple-web-design.png">
+<img align="center" alt="HTML" height="40" width="40" src="https://www.brcline.com/wp-content/uploads/2016/01/bootstrap-logo.png">
 
 
 </div>
