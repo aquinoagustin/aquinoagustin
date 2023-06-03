@@ -16,5 +16,4 @@
 
 ## Podes seguirme:
 
-[<img src='https://static-00.iconduck.com/assets.00/linkedin-icon-2048x2048-ya5g47j2.png'  [<img src='[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg](https://static-00.iconduck.com/assets.00/linkedin-icon-2048x2048-ya5g47j2.png)' alt='instagram' height='45'>](https://www.instagram.com/agusxaquino) 
-
+![]([https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png](https://static-00.iconduck.com/assets.00/linkedin-icon-2048x2048-ya5g47j2.png)){width='100px'}
