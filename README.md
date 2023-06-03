@@ -5,12 +5,12 @@
 ## Habilidades
 <div>
   
-<img align="center" alt="HTML" height="30" width="40" src="https://i.imgur.com/Jg2ueWF.png">
-<img align="center" alt="HTML" height="30" width="40" src="https://i.imgur.com/3jugWSj.png">
-<img align="center" alt="HTML" height="30" width="40" src="https://i.imgur.com/5NjVYbj.png">
-<img align="center" alt="HTML" height="30" width="40" src="https://i.imgur.com/CFUfHyN.png">
-<img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="HTML" height="30" width="40" src="https://i.imgur.com/IzSR5E7.png">
+<img align="center" alt="HTML" height="40" width="40" src="https://i.imgur.com/Jg2ueWF.png">
+<img align="center" alt="HTML" height="40" width="40" src="https://i.imgur.com/3jugWSj.png">
+<img align="center" alt="HTML" height="40" width="40" src="https://i.imgur.com/5NjVYbj.png">
+<img align="center" alt="HTML" height="40" width="40" src="https://i.imgur.com/CFUfHyN.png">
+<img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="HTML" height="40" width="40" src="https://i.imgur.com/IzSR5E7.png">
 </div>
 
 
