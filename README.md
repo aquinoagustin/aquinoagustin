@@ -11,7 +11,7 @@
 <img align="center" alt="HTML" height="40" width="40" src="https://i.imgur.com/Jg2ueWF.png">
 <img align="center" alt="HTML" height="40" width="40" src="https://i.imgur.com/3jugWSj.png">
 <img align="center" alt="HTML" height="40" width="40" src="https://i.imgur.com/5NjVYbj.png">
-<img align="center" alt="HTML" height="40" width="40" src="https://image.pngaaa.com/253/5505253-middle.png">
+<img align="center" alt="HTML" height="40" width="40" src="[https://image.pngaaa.com/253/5505253-middle.png](https://e7.pngegg.com/pngimages/391/430/png-clipart-bootstrap-full-logo-tech-companies.png)">
 
 
 </div>
