@@ -16,4 +16,4 @@
 
 ## Podes seguirme:
 
-![]([https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png](https://static-00.iconduck.com/assets.00/linkedin-icon-2048x2048-ya5g47j2.png)){width='100px'}
+<img align="center" alt="HTML" height="40" width="40" src="  https://static-00.iconduck.com/assets.00/linkedin-icon-2048x2048-ya5g47j2.png     ">
