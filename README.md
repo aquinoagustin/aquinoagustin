@@ -14,9 +14,11 @@
  
 </div>
 ## Back
-
+<div>
 <img align="center" alt="HTML" height="40" width="40" src="https://i.pinimg.com/564x/71/5b/59/715b59c8c7545d9dafb1a04111edde40.jpg">
 <img align="center" alt="HTML" height="40" width="40" src="https://res.cloudinary.com/practicaldev/image/fetch/s--XsZRGi5O--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/organization/profile_image/763/988af53b-5d7e-435a-98eb-dd4aff5299d2.png">
+
+</div>
 
 
 ## Podes seguirme:
