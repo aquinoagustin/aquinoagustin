@@ -12,7 +12,7 @@
 <img align="center" alt="HTML" height="40" width="40" src="https://i.imgur.com/3jugWSj.png">
 <img align="center" alt="HTML" height="40" width="40" src="https://i.imgur.com/5NjVYbj.png">
 <img align="center" alt="HTML" height="40" width="40" src="https://www.brcline.com/wp-content/uploads/2016/01/bootstrap-logo.png">
-<img align="center" alt="HTML" height="40" width="40" src="https://e7.pngegg.com/pngimages/100/669/png-clipart-computer-programming-programming-language-c-programmer-language-miscellaneous-logo.png">
+<img align="center" alt="HTML" height="40" width="40" src="https://i.pinimg.com/564x/71/5b/59/715b59c8c7545d9dafb1a04111edde40.jpg">
 
 </div>
 
