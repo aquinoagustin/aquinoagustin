@@ -1,5 +1,10 @@
 ### Saludos 👋
-### Mi nombre es Agustín, tengo 23 años. Me recibí como tecnico programador de la Tecnica N°7, actualmente me encuentro estudiando el 2° Cuatrimestre de la UTN-FRA. Soy autodidacta, me gusta mucho estudiar todo lo vinculado a la programación. 
+### Mi nombre es Agustín Aquino, tengo 23 años.Tengo una gran motivación y entusiasmo por aprender y desarrollarme en el área de la informática
+Estudios:
+- Tecnica N°7 Jose Hernandez (Tecnico Programador), 
+- Actualmente me encuentro estudiando el 2° Cuatrimestre de la UTN-FRA (Tecnicatura en programacion). Soy autodidacta, me gusta mucho estudiar todo lo vinculado a la programación.
+
+
 ![Header](./header.png)
 
 ## Skills
