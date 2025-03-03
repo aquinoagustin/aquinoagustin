@@ -34,6 +34,6 @@ Pruebas funcionales e integración en entornos de alta demanda.
 
 Me apasiona el mundo del mainframe y la tecnología bancaria. Busco mejorar mis habilidades y contribuir a proyectos relacionados con la modernización y optimización de sistemas críticos.
 
-![Header](./github-header-image.png)
+![Header](./githubHeader.png)
 
 
