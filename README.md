@@ -1,13 +1,29 @@
 👋 ¡Hola! Soy Técnico Programador en formación
 <br>
 
-💻 Especializándome en sistemas mainframe, con experiencia en COBOL, JCL y JAVA. Actualmente, soy becario en Banco Nación Argentina, donde trabajo con tecnologías críticas para el sector bancario.
+💻 Especializándome en sistemas mainframe, con experiencia en CICS, COBOL-CICS, JCL,3270 . Actualmente, soy becario en Banco Nación Argentina, donde trabajo con tecnologías críticas para el sector bancario.
 
 🚀 Tecnologías y herramientas:
-🖥️ COBOL & CICS
+🖥️ CICS
+<br>
+Administración de transacciones en CICS.
+<br>
+Definición y modificación de recursos
+<br>
+Ejecución de comandos CEMT/CEDA,NEWCOPY,etc
+<br>
+Análisis de transacciones, dumps y errores. 
+<br>
+Uso de herramientas como Omegamon para monitoreo de regiones
+<br>
+
+
+🖥️ COBOL 
 <br>
 Desarrollo y mantenimiento de sistemas bancarios.
-Administración de transacciones en CICS.
+<br>
+Uso de EXEC CICS para realizar operaciones como READ, WRITE, STARTy SEND/RECEIVE en el flujo de programas COBOL
+<br>
 Implementación de mejoras y corrección de errores.
 <br>
 
@@ -33,7 +49,10 @@ Pruebas funcionales e integración en entornos de alta demanda.
 <br>
 
 Me apasiona el mundo del mainframe y la tecnología bancaria. Busco mejorar mis habilidades y contribuir a proyectos relacionados con la modernización y optimización de sistemas críticos.
-
+<br>
+<br>
+<img src="./ibmz-concepts.png" width="300" height="300"/>
+<img src="./ibmz-advanced.png" width="300" height="300"/>
 ![Header](./githubHeader.png)
 
 
