@@ -51,8 +51,9 @@ Pruebas funcionales e integración en entornos de alta demanda.
 Me apasiona el mundo del mainframe y la tecnología bancaria. Busco mejorar mis habilidades y contribuir a proyectos relacionados con la modernización y optimización de sistemas críticos.
 <br>
 <br>
-<img src="./ibmz-concepts.png" width="300" height="300"/>
-<img src="./ibmz-advanced.png" width="300" height="300"/>
+<img src="./ibmz-concepts.png" width="150" height="150"/>
+<img src="./ibmz-advanced.png" width="150" height="150"/>
+<img src="./all-star.png" width="150" height="150"/>
 ![Header](./githubHeader.png)
 
 
