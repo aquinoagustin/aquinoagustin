@@ -53,7 +53,7 @@ Me apasiona el mundo del mainframe y la tecnología bancaria. Busco mejorar mis 
 <br>
 <img src="./ibmz-concepts.png" width="150" height="150"/>
 <img src="./ibmz-advanced.png" width="150" height="150"/>
-<img src="./all-star.png" width="150" height="150"/>
+<img src="./ibmz-all-star.png" width="150" height="150"/>
 ![Header](./githubHeader.png)
 
 
