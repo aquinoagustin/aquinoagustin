@@ -1,7 +1,12 @@
+<div style="background:#000; color:#00ff00; font-family: 'Courier New', monospace; padding:20px;">
+
+
+<h1 style="font-family: monospace; color: #00ff00; background:#000; padding:5px;">
 👋 ¡Hola! Soy Técnico Programador en formación
 <br>
+</h1>
 
-💻 Especializándome en sistemas mainframe, con experiencia en CICS, COBOL-CICS, JCL,3270 . Actualmente, soy becario en Banco Nación Argentina, donde trabajo con tecnologías críticas para el sector bancario.
+💻 Especializándome en sistemas mainframe, con experiencia en CICS, COBOL-CICS, JCL, 3270 (Vista TN3270). Actualmente, trabajo en el Banco Nación Argentina, donde trabajo con tecnologías críticas para el sector bancario.
 
 🚀 Tecnologías y herramientas:
 🖥️ CICS
@@ -48,12 +53,14 @@ Pruebas funcionales e integración en entornos de alta demanda.
 📈 En constante aprendizaje
 <br>
 
-Me apasiona el mundo del mainframe y la tecnología bancaria. Busco mejorar mis habilidades y contribuir a proyectos relacionados con la modernización y optimización de sistemas críticos.
+Me apasiona el mundo del mainframe y la tecnología bancaria. Busco mejorar mis habilidades y contribuir a proyectos relacionados con el desarrollo y optimización de sistemas críticos.
 <br>
 <br>
 <img src="./ibmz-concepts.png" width="150" height="150"/>
 <img src="./ibmz-advanced.png" width="150" height="150"/>
 <img src="./ibmz-all-star.png" width="150" height="150"/>
-![Header](./githubHeader.png)
 
+<p style="font-size:14px; color:#0f0;">[Press ENTER to continue...]</p>
+
+</div>
 
