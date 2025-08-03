@@ -31,7 +31,6 @@ Uso de EXEC CICS para realizar operaciones como READ, WRITE, START, SEND/RECEIVE
 <br>
 Implementación de mejoras y corrección de errores.
 <br>
-<br>
 Creación y compilacion de maps BMS
 <br>
 
