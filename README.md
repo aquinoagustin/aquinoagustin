@@ -27,9 +27,12 @@ Uso de herramientas como Omegamon para monitoreo de regiones
 <br>
 Desarrollo y mantenimiento de sistemas bancarios.
 <br>
-Uso de EXEC CICS para realizar operaciones como READ, WRITE, STARTy SEND/RECEIVE en el flujo de programas COBOL
+Uso de EXEC CICS para realizar operaciones como READ, WRITE, START, SEND/RECEIVE, LINK, XCTL en el flujo de programas COBOL
 <br>
 Implementación de mejoras y corrección de errores.
+<br>
+<br>
+Creación y compilacion de maps BMS
 <br>
 
 📡 JCL (Job Control Language)
