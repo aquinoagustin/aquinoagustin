@@ -1,6 +1,6 @@
 # 👋 Hola, soy Luciano Agustín Aquino
 
-🎯 Desarrollador Mainframe en formación con experiencia en Banco Nación (área CICS).  
+🎯 Desarrollador Cobol/zos-connect en Fiserv  
 💻 Manejo COBOL, JCL y CICS, con proyectos propios en emuladores y práctica con pantallas BMS.  
 📚 Certificado en IBM Z Xplore (Concepts, Advanced, All Star).  
 
