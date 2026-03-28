@@ -1,8 +1,6 @@
 # 👋 Hola, soy Luciano Agustín Aquino
 
-🎯 Desarrollador Cobol/zos-connect en Fiserv  
-💻 Manejo COBOL, JCL y CICS, con proyectos propios en emuladores y práctica con pantallas BMS.  
-📚 Certificado en IBM Z Xplore (Concepts, Advanced, All Star).  
+🎯 Mainframe Developer @ Fiserv | COBOL • z/OS Connect • CICS • APIs REST 
 
 ## 🚀 Tecnologías
 - COBOL · JCL · CICS · BMS
