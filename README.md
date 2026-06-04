@@ -1,3 +1,4 @@
+
 # 👋 Hola, soy Luciano Agustín Aquino
 
 🎯 Mainframe Developer @ Fiserv | COBOL • z/OS Connect • CICS • APIs REST 
@@ -18,6 +19,7 @@
 <img src="./ibmz-concepts.png" width="150" height="150"/>
 <img src="./ibmz-advanced.png" width="150" height="150"/>
 <img src="./ibmz-all-star.png" width="150" height="150"/>
+<img width="150" height="150" alt="sintitulo2" src="https://github.com/user-attachments/assets/8a3b6821-2351-47ce-a3eb-8a95dbcc545c" />
 
 <p style="font-size:14px; color:#0f0;">[Press ENTER to continue...]</p>
 
